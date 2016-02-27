@@ -23,3 +23,10 @@ For an example of what OwnPush can offer regarding battery savings, we setup a t
 
 **Google Services Resource usage on Nexus 9**  
 <img src="https://ownpush.com/wp-content/uploads/2016/02/ownPush-n9-gms-usage.jpg">
+
+# Get Involved
+To find out more about how you can utilize OwnPush in your apps/services, check out the following resources:
+* [OwnPush Developer Documentation](https://github.com/ownpush/docs/blob/master/DEVELOPERS.md)
+* [OwnPush App Demos](https://demo.ownpush.com)
+* [Contact Us](mailto:ownpush@fastbootmobile.com)
+* 
