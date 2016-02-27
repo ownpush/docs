@@ -29,4 +29,5 @@ To find out more about how you can utilize OwnPush in your apps/services, check 
 * [OwnPush Developer Documentation](https://github.com/ownpush/docs/blob/master/DEVELOPERS.md)
 * [OwnPush App Demos](https://demo.ownpush.com)
 * [Contact Us](mailto:ownpush@fastbootmobile.com)
-* 
+
+
