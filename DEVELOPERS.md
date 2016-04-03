@@ -56,4 +56,6 @@ The data within the body is encrypted with the APP private key and the INSTALL p
 ```
 This data is then encoded into b64 format and signed via the NaCl library as sign(b64(header).b64(body) and the final data sent to the api is in the format
 
-```b64(header).b64(body).b64(signature)```
+```
+b64(header).b64(body).b64(signature)
+```
