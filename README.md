@@ -1,5 +1,6 @@
 <img src="https://ownpush.com/wp-content/uploads/2016/02/ownpush_128-logoSpelledout.png">
-### _Next generation, open-source push services for Android_ ###
+### Next generation, open-source push services for Android ###
+
 Developers know that in order to keep their users engaged with their apps/services they need to use push messages. Until now there has been little choice outside of Google Cloud Messaging (GCM). With this lack of choice came a dependency on Google Services which is a known battery and resource drain on today’s modern devices. This dependency also has created a challenge for developers looking to provide the billion or more users who do not have access to Google Services, or choose to value privacy, with push notifications.
 
 # Introducing OwnPush #
@@ -23,6 +24,9 @@ For an example of what OwnPush can offer regarding battery savings, we setup a t
 
 **Google Services Resource usage on Nexus 9**  
 <img src="https://ownpush.com/wp-content/uploads/2016/02/ownPush-n9-gms-usage.jpg">
+
+## OwnPush Single-App Server ##
+We have open sourced the OwnPush, single-app server at https://github.com/ownpush/push_server
 
 # Get Involved
 To find out more about how you can utilize OwnPush in your apps/services, check out the following resources:
